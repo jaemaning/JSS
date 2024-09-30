@@ -1,0 +1,4 @@
+# 이곳은 예시 .env 파일입니다.
+
+GPT_SECRET_KEY="개인 GPT API SECRET KEY"
+MODEL="Fine Tuning 된 GPT API Model ID"
